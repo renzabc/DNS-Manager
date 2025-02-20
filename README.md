@@ -9,6 +9,7 @@ Currently, the frontend and backend are separate. If you want to test it out, do
 
 ## Usage
 Make sure you set your machine's preferred DNS server address to 127.0.0.1.
+
 On Windows do the following:
 1. Search/run ncpa.cpl.
 2. Right-click on your active network adapter and select properties.
